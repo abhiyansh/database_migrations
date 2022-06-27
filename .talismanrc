@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: src/main/resources/db/migration/V1.3__AddFieldPrimaryPhoneNumToUsers.sql
+  checksum: 182b811beb9fe9e29f04bdacb4a2cc5c1141c8c5adc001c21e8e3275a8ec750a
 - filename: src/main/resources/db/migration/V1.2__RenameFieldNameToFullNameInUsers.sql
   checksum: f4b75f5ab1992ef5e66c04a11270f6a964b7cee9381f52efbf11efb349f414bb
 - filename: src/main/resources/db/migration/V1.1__CreateProductsTable.sql
